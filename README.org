@@ -1,0 +1,14 @@
+mikutter-imas
+
+* なにこれ
+  mikutterでプロデューサー業したい"ておくれP"の為のプラグイン
+
+* インストール方法
+#+BEGIN sh
+$ git clone https://github.com/toshia/mikutter-kancolle.git ~/.mikutter/plugin/kancolle
+
+$ sudo pacman -Syu webkitgtk2 # Archの場合
+
+$ gem install webkit-gtk2  
+#+END
+基本的には必要なパッケージは艦これプラグインと同じです。
