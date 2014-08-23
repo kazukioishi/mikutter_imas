@@ -5,7 +5,7 @@ mikutter-imas
 
 * インストール方法
 #+BEGIN sh
-$ git clone https://github.com/toshia/mikutter-kancolle.git ~/.mikutter/plugin/kancolle
+$ git clone https://github.com/kazukioishi/mikutter_imas.git ~/.mikutter/plugin/mikutter_imas
 
 $ sudo pacman -Syu webkitgtk2 # Archの場合
 
